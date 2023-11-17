@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.example.vue.js-bbs-back.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.example.vue.js-bbs-back.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/vue.js-bbs-back.iml" filepath="$PROJECT_DIR$/.idea/vue.js-bbs-back.iml" />
+    </modules>
+  </component>
+</project>
